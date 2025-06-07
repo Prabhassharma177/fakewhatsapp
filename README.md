@@ -1,1 +1,3 @@
-I create fakewhatsapp using my nodejs and ejs knowladge in webdevlopment.
+I create fakewhatsapp using my JavaScript nodejs and ejs knowladge in webdevlopment.
+
+This is a message app that show your chat.
