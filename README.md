@@ -12,4 +12,3 @@ Works well with Express.js.
 This app is great pratice for ejs.
 During app creation I enjoy to much.
 Hello everyone!
-
