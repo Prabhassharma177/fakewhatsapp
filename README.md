@@ -10,7 +10,7 @@ Why I create this app ? Making this app helped me understand ejs in whole new wa
 Simple syntax: <%= variable %> to insert values, <% %> for logic (if, loops, etc.)
 Works well with Express.js. 
 This app is great pratice for ejs.
-During app creation I enjoy to much.
+During app creation I enjoy too much.
 Hello everyone!
 Happy last day of this year 2025!
 Happy last day of Jan 2026
